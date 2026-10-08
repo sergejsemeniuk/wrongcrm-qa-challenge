@@ -21,3 +21,7 @@ The action for linking an activity to deal that user cannot open should be rejec
 
 ## Confidence
 The activity is displayed on foreign user's deal when viewed as a manager or deal's owner. Also, deal_id point to a deal owned by another user (assigned_to=Meghan)
+
+## Screenshots
+![List of activities from foreign users](images/Bug-03-01.png)
+![Activity added to foreign user's deal](images/Bug-03-02.png)

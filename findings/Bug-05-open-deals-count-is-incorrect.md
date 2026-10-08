@@ -20,3 +20,6 @@ Moving any open deal to won status increases the number in open deals column
 
 ## Confidence
 Formula verified on several data sets
+
+## Screenshots
+![Wrong counter](images/Bug-05-01.png)

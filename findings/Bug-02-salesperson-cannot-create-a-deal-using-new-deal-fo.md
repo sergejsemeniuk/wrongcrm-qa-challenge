@@ -18,3 +18,6 @@ Salesperson is not able to create a new deal since form has no Assignee field di
 ## Confidence
 Deal cannot be created from this form. Only workaround is to create a lead and then convert it to deal for the assigned user.
 Also, the manager's new deal form has the assignee field.
+
+## Screenshots
+![Missing assignee field](images/Bug-02-01.png)

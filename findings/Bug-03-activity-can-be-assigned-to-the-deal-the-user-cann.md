@@ -15,9 +15,9 @@ The deals in dropdown should be limited to deals only assigned current user can 
 The action for linking an activity to deal that user cannot open should be rejected by server.
 
 ## Actual result
--The foreign deal is selectable from the deals dropdown.
--The activity can be saved and it appears on other user's deal
--A salesperson A can write a data on a deal they cannot read (when trying to read it 403 appears)
+- The foreign deal is selectable from the deals dropdown.
+- The activity can be saved and it appears on other user's deal
+- A salesperson A can write a data on a deal they cannot read (when trying to read it 403 appears)
 
 ## Confidence
 The activity is displayed on foreign user's deal when viewed as a manager or deal's owner. Also, deal_id point to a deal owned by another user (assigned_to=Meghan)

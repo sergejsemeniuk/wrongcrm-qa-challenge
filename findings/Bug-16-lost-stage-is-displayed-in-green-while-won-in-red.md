@@ -19,3 +19,6 @@ Lost stage icon displayed in green ("--color-emerald-50"), while Won stage icon 
 ## Confidence
 Visible.
 Minor mismatch in the design
+
+## Screenshots
+![Wrong icons](images/Bug-16-01.png)

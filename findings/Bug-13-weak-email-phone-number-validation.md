@@ -22,3 +22,6 @@
 
 ## Confidence
 "s@" visible in the leads list/contact list; invalid phone accepted on contacts.
+
+## Screenshots
+![Weak field validation](images/Bug-13-01.png)

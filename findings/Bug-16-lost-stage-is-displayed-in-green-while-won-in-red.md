@@ -9,12 +9,12 @@
 3. Check the Lost/Won stage icons
 
 ## Expected result
-"Lost" stage icon displayed in red color
-"Won" stage icon displayed in green color
+- "Lost" stage icon displayed in red color ("--color-red-50")
+- "Won" stage icon displayed in green color ("--color-emerald-50")
 
 ## Actual result
 Mismatch between lost/won icons.
-Lost stage icon displayed in green, while Won stage icon displayed in red.
+Lost stage icon displayed in green ("--color-emerald-50"), while Won stage icon displayed in red ("--color-red-50").
 
 ## Confidence
 Visible.

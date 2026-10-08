@@ -20,4 +20,4 @@ Please also note that since previously created (seeded) activities has their dat
 Several created activities all have due_at=null despite a date being entered
 
 ## Screenshots
-![Due date not displayed(images/Bug-09-01.png)
+![Due date not displayed](images/Bug-09-01.png)

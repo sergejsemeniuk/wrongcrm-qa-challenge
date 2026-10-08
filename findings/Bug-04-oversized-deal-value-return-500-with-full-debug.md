@@ -19,3 +19,6 @@ Error is not handled and debug page is displayed
 
 ## Confidence
 Potential security issue as debug data displayed (database name, host, sql statement, request headers
+
+## Screenshots
+![Error 500](images/Bug-04-01.png)

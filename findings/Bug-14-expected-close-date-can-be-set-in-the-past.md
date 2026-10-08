@@ -17,3 +17,6 @@ A date in the past for expected close date is accpedted on both create and edit.
 
 ## Confidence
 Reproduced on deals creation and edit
+
+## Screenshots
+![Expected close date in past](images/Bug-14-01.png)

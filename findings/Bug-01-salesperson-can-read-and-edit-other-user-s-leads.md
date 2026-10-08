@@ -23,3 +23,7 @@ Notes: the behaviour should be simillar to how the Deals work e.g. GET /deals/{I
 
 ## Confidence
 This is data disclosure and data modification of foreign user
+
+## Screenshots
+![Leads list with all users](images/Bug-01-01.png)
+![Edit menu for foreign user](images/Bug-01-02.png)

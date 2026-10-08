@@ -17,9 +17,9 @@ Foreign leads (which are not assigned to current user) are not displayed in the 
 Notes: the behaviour should be simillar to how the Deals work e.g. GET /deals/{ID} return 403 for another user's deal, the deals list show only deals assigned to current user
 
 ## Actual result
--The leads list returns leads for all users (assigned to salesperson A, salesperson B and manager). 
--Salesperson can open foreign lead successefully GET /leads/197
--Saleperson can edit and save foreign lead successefully
+- The leads list returns leads for all users (assigned to salesperson A, salesperson B and manager). 
+- Salesperson can open foreign lead successefully GET /leads/197
+- Saleperson can edit and save foreign lead successefully
 
 ## Confidence
 This is data disclosure and data modification of foreign user

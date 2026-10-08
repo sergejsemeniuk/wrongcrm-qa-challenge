@@ -19,3 +19,6 @@ Pre filled date is displayed but empty value is submitted
 
 ## Confidence
 Error is displayed in payload while the field is visibly shows a date
+
+## Screenshots
+![Expected close date required error](images/Bug-11-01.png)

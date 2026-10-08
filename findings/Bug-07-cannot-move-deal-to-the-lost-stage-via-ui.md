@@ -17,3 +17,6 @@ Move to' only offers the next forward stage and "Won" on proposal, but never "Lo
 
 ## Confidence
 Checked on multiple stages and "Lost" exist in stages list, deals filters and some deals already have stage set as lost
+
+## Screenshots
+![No lost stage button](images/Bug-07-01.png)
